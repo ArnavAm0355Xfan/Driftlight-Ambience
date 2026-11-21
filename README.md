@@ -45,6 +45,7 @@ spicetify update
  
 ## Credits
 - Built on [Spicetify](https://spicetify.app).
+-  Built with help from [ChatGPT](https://chatgpt.com) (OpenAI) and [Claude](https://claude.ai) (Anthropic).
 - Inspired by [Spicy Lyrics](https://github.com/Spikerko/spicy-lyrics) by Spikerko.
 - Includes a workflow adapted from [Unslop](https://heydamir.design/unslop) by Damir Sokolovsky (CC BY 4.0).
  
