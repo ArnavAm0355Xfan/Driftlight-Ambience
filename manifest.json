@@ -1,7 +1,7 @@
 {
   "name": "Driftlight Ambience",
   "description": "A slowly drifting ambient glow that follows your cover colors across Spotify.",
-  "preview": "previews/preview.png",
+  "preview": "preview.png",
   "main": "Driftlight-Ambience.js",
   "readme": "README.md",
   "authors": [
