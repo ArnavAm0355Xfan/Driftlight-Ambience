@@ -6,7 +6,7 @@ Driftlight Ambience gives Spotify a moving ambient glow that follows your cover 
 
 <img width="1598" height="897" alt="preview" src="https://github.com/user-attachments/assets/45345c3f-d321-41e3-aed5-5299cdbdbce2" />
 
-https://github.com/user-attachments/assets/85a93511-c9cb-41aa-b6e9-af6bcfb1803b
+https://github.com/user-attachments/assets/c877787c-1f98-43af-94ef-9128f8355917
 
 ## Installation
 
