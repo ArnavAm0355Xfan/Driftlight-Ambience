@@ -3,7 +3,7 @@
 
 Driftlight Ambience gives Spotify a moving ambient glow that follows your cover colors across the playlist page, top bar, Now Playing panel, player bar, and library sidebar. It's an open-source extension for the Spotify desktop client, built on [Spicetify](https://spicetify.app).
 
-![Preview](<img width="1598" height="897" alt="preview" src="https://github.com/user-attachments/assets/45345c3f-d321-41e3-aed5-5299cdbdbce2" />)
+<img width="1598" height="897" alt="preview" src="https://github.com/user-attachments/assets/45345c3f-d321-41e3-aed5-5299cdbdbce2" />
 
 ## Installation
 
