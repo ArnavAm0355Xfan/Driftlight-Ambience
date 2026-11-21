@@ -7,6 +7,8 @@ Driftlight Ambience gives Spotify a moving ambient glow that follows your cover 
 
 https://github.com/user-attachments/assets/9d0f7209-2798-4c1d-b307-c755f14a80ce
 
+> The previews above also use [Spicy Lyrics](https://github.com/Spikerko/spicy-lyrics) by Spikerko.
+
 ## Installation
 
 ### 1. Install Spicetify
